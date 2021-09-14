@@ -1,4 +1,5 @@
 # Swift: ToDo List with image and swipe
+Using Core Data, they app saves the ToDo with image. Add swipe to the TableView
 
 ## Screenshot
 ### Add images in the TableView from Core Data
