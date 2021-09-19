@@ -16,6 +16,7 @@ Using Core Data, they app saves the ToDo with image. Add swipe to the TableView
 - [ToDo List with Core Data](https://github.com/erossini/Swift-TodoListCR)
 - [ToDo List with image and Swipe](https://github.com/erossini/Swift-ToDoListImageAndSwipe)
 - [CryptoCurrency](https://github.com/erossini/Swift-CryptoAPI) shows the value of a crypto currency in a real currency using API
+- [Building a Barcode Scanner](https://github.com/erossini/Swift-ScanView)
 
 For more code and explanation, visit my blog [PureSourceCode](https://www.puresourcecode.com) and subscribe the newsletter to keep updated and receive all the posts about Swift. If you have any questions about this code, please post your comment, feedback or question in the [forum](https://www.puresourcecode.com/forum/forum/swift/). Here some posts to start with Swift:
 
